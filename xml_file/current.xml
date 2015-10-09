@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<users>
+	<user id="1">
+		<first_name>Toby</first_name>
+		<last_name>Mellor</last_name>
+		<positive_points>4</positive_points>
+		<negative_points>2</negative_points>
+	</user>
+	<user id="2">
+		<first_name>Mr</first_name>
+		<last_name>Hudson</last_name>
+		<positive_points>1</positive_points>
+		<negative_points>10</negative_points>
+	</user>
+	<user id="3">
+		<first_name>James</first_name>
+		<last_name>Burriss</last_name>
+		<positive_points>55</positive_points>
+		<negative_points>124</negative_points>
+	</user>
+	<user id="4">
+		<first_name>Harry</first_name>
+		<last_name>Ablewhite</last_name>
+		<positive_points>2</positive_points>
+		<negative_points>5</negative_points>
+	</user>
+</users>
